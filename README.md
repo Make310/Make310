@@ -2,7 +2,7 @@
 
 ## 👋 Hello, I'm Luis!
 
-Full stack developer with approximately 3 years of proven experience, working on both frontend and backend development. Proficient in frontend technologies such as JavaScript, Vue.js, React, and backend frameworks like Python (Flask, FastAPI, Django), offering a comprehensive approach to web application development. Beyond coding, I am a dedicated professional with strong common sense and critical thinking. My proactivity and sense of urgency make me a reliable resource for tackling complex technological challenges. A team player, I foster a collaborative environment and continuous learning to stay ahead of innovation, contributing to decision-making based on technical analysis and the ongoing improvement of scalable and efficient solutions.
+Full stack developer with more than 4 years of proven experience, working on both frontend and backend development. Proficient in frontend technologies such as JavaScript, Vue.js, React, and backend frameworks like Python (Flask, FastAPI, Django), offering a comprehensive approach to web application development. Beyond coding, I am a dedicated professional with strong common sense and critical thinking. My proactivity and sense of urgency make me a reliable resource for tackling complex technological challenges. A team player, I foster a collaborative environment and continuous learning to stay ahead of innovation, contributing to decision-making based on technical analysis and the ongoing improvement of scalable and efficient solutions.
 
 ### 🚀 Technical Skills
 
